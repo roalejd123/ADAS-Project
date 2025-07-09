@@ -1,0 +1,99 @@
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 21:56:06
+TIME	0.000
+SIMULATE	day2_scenario4
+
+SIM_END		day2_scenario4	0s	0.0138889m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 21:58:16
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 21:58:26
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 21:58:40
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 21:58:51
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 21:59:06
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 22:29:25
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 22:29:45
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 22:35:59
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m
+APPLICATION	CarMaker 14.0.1 - Car_Generic #5 (win64-14.0.1)
+COMPILED	jetbrains@05dcd26e64f8 2025-01-28 11:06:46
+ 
+		I/O Configuration: default
+SIM_START	day2_scenario4	2025-05-12 22:37:07
+TIME	0.000
+SIMULATE	day2_scenario4
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	day2_scenario4	0.004s	0.0277777m

@@ -1,0 +1,19 @@
+
+
+SYSTEM_START	-	desktop-cgqu3vi	월 5 12 16:54:02 2025
+
+
+SYSTEM_INFO	Movie NX pro 14.0.1 2025-01-27
+Creating engine cache path: C:/Users/User/AppData/Local/cache/MovieNX/cache_140
+[Warning] Invalid configuration file for Creator "MovieNX". Perhaps the file was not yet created? Path: C:/Users/User/MovieNX/data/View/ViewSettings.cfg)
+APO: Successfully connected to: CarMaker 14.0.1 - Car_Generic @ DESKTOP-CGQU3VI(127.0.0.1):7852
+Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+Loading Installed scripts...
+Loading User scripts...
+Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-14.0.1'
+Loading Test Run from path D:/IVS/자율주행 motion planning/Practice_sample/Data/TestRun/day2_scenario2
+Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-14.0.1'
+Loading Test Run from path D:/IVS/자율주행 motion planning/Practice_sample/Data/TestRun/day2_scenario2
+Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-14.0.1'
+Loading Test Run from path D:/IVS/자율주행 motion planning/Practice_sample/Data/TestRun/day2_scenario2
+ApoConnection: Disconnecting...
