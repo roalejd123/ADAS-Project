@@ -14,16 +14,3 @@ Matlab/Simulink & CarMaker 기반 차량 통합 시뮬레이션
 - **OS** : Windows 10/11 (64-bit)
 - **Git** : 2.30 이상
 
----
-
-## 🗂 프로젝트 구조
-ADAS_Project
-├─ src_cm4sl
-
-│ └─ generic_IVS : 차량 통합 알고리즘 모듈
-
-├─ Docs : 개발 및 검증 문서
-
-├─ Scripts : 자동화 및 설정 스크립트
-
-└─ README.md
